@@ -1,0 +1,2 @@
+-- NEW PLAYER
+INSERT INTO Player VALUES (?,"?",?);

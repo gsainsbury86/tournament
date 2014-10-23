@@ -1,0 +1,1 @@
+SELECT name, rating FROM Player Order by rating;
